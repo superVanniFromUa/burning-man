@@ -28,6 +28,7 @@ img {
 
 header {
   background-image: url(img/header-img.jpg);
+  background-color: dimgray;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
